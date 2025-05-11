@@ -9,7 +9,7 @@ from ultralytics import YOLO
 from datetime import datetime
 
 # Load YOLOv8 model
-model = YOLO('E:/MediVision-AI/Bone Fracture Detection_Streamlit/best (1).pt')  
+model = YOLO('best.pt') 
 
 def detect_bone_fracture(image_array, model):
     """Detect bone fracture in an image using the YOLOv8 model."""
