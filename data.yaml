@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Fracture']
+
+roboflow:
+  workspace: fracture-uofxm
+  project: bone-fracture-detection-ivsy6
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fracture-uofxm/bone-fracture-detection-ivsy6/dataset/1
