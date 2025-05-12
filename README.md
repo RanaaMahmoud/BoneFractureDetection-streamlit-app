@@ -4,7 +4,7 @@ This project is an AI-powered bone fracture detection tool built using [YOLOv8](
 
 ## 🚀 Try It Out
 
-👉 **Live Demo:** [Bone Fracture Detection Web App](https://bonefracturedetection-app-app-g7p9jsednhawdmkhbidwxe.streamlit.app/)
+👉 **Live Demo:** [Bone Fracture Detection Web App](https://bonefracturedetection-app-app-odmvyyqvucylax43q9vafp.streamlit.app/)
 
 Upload an X-ray image, and the model will automatically detect and highlight the fractured area if present.
 
