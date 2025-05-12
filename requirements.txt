@@ -3,4 +3,6 @@ pandas
 numpy
 scikit-learn
 opencv-python-headless
+ultralytics
+tensorflow
 Pillow
