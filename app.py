@@ -46,8 +46,8 @@ def save_image_to_github(image_array, filename):
     pass  # Replace with actual logic
 
 # Streamlit UI
-st.title("Bone Fracture Detection with YOLOv8")
-st.write("Upload an image to detect fractures using the YOLOv8 model.")
+st.title("Bone Fracture Region Detection ")
+st.write("Upload an image to detect the region of fractures")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
